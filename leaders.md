@@ -2,10 +2,10 @@
 layout: page
 feature_image: "/assets/header/waldweg.jpg"
 feature_text: |
-  # Unsere Gruppenleiter
+  # Unsere Gruppenleiter*innen
 ---
 
-Unsere Gruppenleiter kommen aus verschiedenen Pfadfinderstämmen, insbesondere aus der [Region Kurhessen](https://vcp-kurhessen.info), aber auch aus anderen Regionen oder anderen Pfadfinderbünden.
+Unsere Gruppenleiter*innen kommen aus verschiedenen Pfadfinderstämmen, insbesondere aus der [Region Kurhessen](https://vcp-kurhessen.info), aber auch aus anderen Regionen oder anderen Pfadfinderbünden.
 
 ### Robin Günkel
 
