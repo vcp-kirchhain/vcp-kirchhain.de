@@ -29,18 +29,17 @@ logo: "/assets/vcp.svg"
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: aktuelles/page:num
 
 # Header nav
 navigation_header:
   Home: /
-  # About: /about/
-  Blog: /blog/
-  Gruppenleiter*innen: /leaders/
+  Aktuelles: /aktuelles/
+  Gruppenleiter*innen: /gruppenleiterinnen/
 
 # Footer nav
 navigation_footer:
-  Impressum: "/impress/"
+  Impressum: "/impressum/"
   Nach oben: "#top"
 
 # Collections
