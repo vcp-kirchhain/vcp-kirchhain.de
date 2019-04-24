@@ -2,7 +2,7 @@
 layout: page
 feature_image: "/assets/header/waldweg.jpg"
 feature_text: |
-  # Unsere Gruppenleiter*innen
+  # Unsere Gruppen&shy;leiter&shy;*innen
 ---
 
 Unsere Gruppenleiter*innen kommen aus verschiedenen Pfadfinderstämmen, insbesondere aus der [Region Kurhessen](https://vcp-kurhessen.info), aber auch aus anderen Regionen oder anderen Pfadfinderbünden.
