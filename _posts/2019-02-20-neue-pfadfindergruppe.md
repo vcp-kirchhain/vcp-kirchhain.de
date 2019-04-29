@@ -2,7 +2,7 @@
 layout: post
 title: Neue Pfadfindergruppe
 categories:
-- Kirchhainer Anzeier
+- Kirchhainer Anzeiger
 feature_image: "/assets/2019-02-13-stockbrot.jpg"
 ---
 
