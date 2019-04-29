@@ -39,6 +39,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
+  Datenschutzerklärung: "/datenschutz/"
   Impressum: "/impressum/"
   Nach oben: "#top"
 

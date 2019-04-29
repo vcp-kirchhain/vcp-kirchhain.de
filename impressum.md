@@ -4,10 +4,11 @@ title: Impressum
 indexing: false
 ---
 
-Jonas Höchst  
+VCP Kirchhain  
+c/o Jonas Höchst  
 Sudetenlandstraße 1  
 35466 Rabenau  
-[hello@jonashoechst.de](mailto:hello@jonashoechst.de)  
+hello@jonashoechst.de   
 
 
 ## Disclaimer - rechtliche Hinweise
