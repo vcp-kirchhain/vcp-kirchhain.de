@@ -13,7 +13,7 @@ Unsere Gruppenleiter*innen kommen aus verschiedenen Pfadfinderstämmen, insbeson
 
 ### Lisa Semler
 
-![Bild von Lisa Semler](/assets/gruppenleiterinnen/lisa_1.jpg#person) Lisa stammt aus dem [Stamm Graf Folke Bernadotte](http://vcp-fd.de) aus Fulda und ist dort Stammesführerin gewesen. Auch Lisa studiert in Marburg, jedoch im Lehramt auf Deutsch und _. Bei den Pfadfindern ist unsere Gruppe in Kirchhain im Moment ihr größtes Projekt.
+![Bild von Lisa Semler](/assets/gruppenleiterinnen/lisa_1.jpg#person) Lisa stammt aus dem [Stamm Graf Folke Bernadotte](http://vcp-fd.de) aus Fulda und ist dort Stammesführerin gewesen. Auch Lisa studiert in Marburg, jedoch im Lehramt auf Deutsch und Ethik. Bei den Pfadfindern ist unsere Gruppe in Kirchhain im Moment ihr größtes Projekt.
 
 ### Jonas Höchst
 
