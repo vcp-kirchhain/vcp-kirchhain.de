@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://vcp-kirchhain.github.io'
+url: 'https://vcp-kirchhain.de'
 baseurl: ''
 title: 'VCP Stamm Kirchhain'
 description: 'Der VCP Kirchhain ist ein Pfadfinderstamm in Kirchhain (Kreis Marburg-Biedenkopf) vom Verband Christlicher Pfadfinderinnen und Pfadfinder.'
