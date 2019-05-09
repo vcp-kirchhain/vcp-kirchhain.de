@@ -5,11 +5,29 @@ feature_text: |
   # Gruppen
 ---
 
-| Name      | Alter | Gruppenleiter                         | Termin                         | Stufe          |
-|-----------|-------|---------------------------------------|--------------------------------|----------------|
-| Wölflinge | 7 - 10  | [Lisa Semler](mailto:lisa@vcp-kirchhain.de)   | Mittwochs, 17:00 - 18:30 Uhr   | Kinderstufe      |
-| Sippe 1   | 10 - 12 | [Jonas Höchst](mailto:jonas@vcp-kirchhain.de) | Donnerstags, 18:00 - 19:30 Uhr | Jungpfadfinder |
-| Sippe 2   | 12 - 13 | [Robin Günkel](mailto:robin@vcp-kirchhain.de) | Mittwochs, 17:00 - 18:30 Uhr   | Jungpfadfinder |
+##### Wölflinge 
+
+- Alter: 7 bis 10 Jahre
+- Gruppenleiterin: [Lisa Semler](mailto:lisa@vcp-kirchhain.de)
+- Mittwochs, 17:00 - 18:30 Uhr
+- Stufe: Kinderstufe
+
+##### Sippe 1
+
+- Alter: 10 bis 12 Jahre
+- Gruppenleiterin: [Jonas Höchst](mailto:jonas@vcp-kirchhain.de)
+- Donnerstags, 18:00 - 19:30 Uhr
+- Stufe: Jungpfadfinder*innenstufe
+
+
+##### Sippe 2
+
+- Alter: 12 bis 13 Jahre
+- Gruppenleiterin: [Robin Günkel](mailto:robin@vcp-kirchhain.de)
+- Mittwochs, 17:00 - 18:30 Uhr
+- Stufe: Jungpfadfinder*innenstufe
+
+### Hast du auch Lust, Pfade zu finden?
 
 Alle unsere Gruppen sind noch offen für neue Pfadfinder\*innen. Auch wenn ihr nicht in unserer Kirchengemeinde seid, einer anderen Konfession oder Religion angehört, könnt ihr einfach dazukommen.
 
