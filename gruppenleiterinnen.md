@@ -9,12 +9,12 @@ Unsere Gruppenleiter*innen kommen aus verschiedenen Pfadfinderstämmen, insbeson
 
 ### Robin Günkel
 
-![Bild von Robin Günkel](/assets/gruppenleiterinnen/robin_1.jpg#person) Robin kommt aus dem [VCP Stamm Gottfried von Ebersberg](https://vcphettenhausen.wordpress.com/) aus Hettenhausen und war dort für mehrere Jahre Gruppenleiter und auch Stammesführer. Im Moment studiert er Physik in Marburg und verwirklicht sich neben der Regionsleitung auch in unserem jungen Pfadfinderstamm in Kirchhain.
+![Bild von Robin Günkel](/assets/gruppenleiterinnen/robin_1.jpg#onethird) Robin kommt aus dem [VCP Stamm Gottfried von Ebersberg](https://vcphettenhausen.wordpress.com/) aus Hettenhausen und war dort für mehrere Jahre Gruppenleiter und auch Stammesführer. Im Moment studiert er Physik in Marburg und verwirklicht sich neben der Regionsleitung auch in unserem jungen Pfadfinderstamm in Kirchhain.
 
 ### Lisa Semler
 
-![Bild von Lisa Semler](/assets/gruppenleiterinnen/lisa_2.jpg#person) Lisa stammt aus dem [Stamm Graf Folke Bernadotte](http://vcp-fd.de) aus Fulda und ist dort Stammesführerin gewesen. Auch Lisa studiert in Marburg, jedoch im Lehramt auf Deutsch und Ethik. Bei den Pfadfindern ist unsere Gruppe in Kirchhain im Moment ihr größtes Projekt.
+![Bild von Lisa Semler](/assets/gruppenleiterinnen/lisa_2.jpg#onethird) Lisa stammt aus dem [Stamm Graf Folke Bernadotte](http://vcp-fd.de) aus Fulda und ist dort Stammesführerin gewesen. Auch Lisa studiert in Marburg, jedoch im Lehramt auf Deutsch und Ethik. Bei den Pfadfindern ist unsere Gruppe in Kirchhain im Moment ihr größtes Projekt.
 
 ### Jonas Höchst
 
-![Bild von Jonas Höchst](/assets/gruppenleiterinnen/jonas_1.jpg#person) Jonas kommt aus dem Nachbarstamm, dem [VCP Stamm Martin Luther Lumdatal](https://www.vcp-lumdatal.de), ansässig in Londorf und war dort Gruppenleiter und Stammesführer. Zur Zeit promoviert er im Fach Informatik ebenfalls an der Uni Marburg. Bei den Pfadfindern stehen bei Jonas [das neue Liederbuch](https://github.com/vcp-kurhessen/Pfadiralala-IV/) und der neue Stamm ganz oben auf der Liste. 
+![Bild von Jonas Höchst](/assets/gruppenleiterinnen/jonas_1.jpg#onethird) Jonas kommt aus dem Nachbarstamm, dem [VCP Stamm Martin Luther Lumdatal](https://www.vcp-lumdatal.de), ansässig in Londorf und war dort Gruppenleiter und Stammesführer. Zur Zeit promoviert er im Fach Informatik ebenfalls an der Uni Marburg. Bei den Pfadfindern stehen bei Jonas [das neue Liederbuch](https://github.com/vcp-kurhessen/Pfadiralala-IV/) und der neue Stamm ganz oben auf der Liste. 
