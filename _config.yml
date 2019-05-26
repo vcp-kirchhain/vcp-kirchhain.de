@@ -20,12 +20,39 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
+encoding: utf-8
+lang: de-DE
+title: 'VCP Stamm Kirchhain'
+logo: "/assets/vcp.svg"
+description: 'Der VCP Kirchhain ist ein Pfadfinderstamm in Kirchhain (Kreis Marburg-Biedenkopf) vom Verband Christlicher Pfadfinderinnen und Pfadfinder.'
 url: 'https://vcp-kirchhain.de'
 baseurl: ''
-title: 'VCP Stamm Kirchhain'
-description: 'Der VCP Kirchhain ist ein Pfadfinderstamm in Kirchhain (Kreis Marburg-Biedenkopf) vom Verband Christlicher Pfadfinderinnen und Pfadfinder.'
 permalink: pretty
-logo: "/assets/vcp.svg"
+email: "hallo@vcp-kirchhain.de"
+
+social:
+  name: VCP Kirchhain
+  links:
+    - https://www.instagram.com/vcp_kirchhain/
+    - https://www.github.com/vcp_kirchhain/
+
+social_links: 
+  Instagram: https://www.instagram.com/vcp_kirchhain/
+  GitHub: https://github.com/vcp-kirchhain
+  link: https://vcp-kirchhain.de
+  RSS: /feed.xml
+
+sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  # Google+: "#DC4E41"
+  # Pinterest: "#BD081C"
+  # LinkedIn: "#0077B5"
+  # tumblr: "#36465D"
+  # Reddit: "#FF4500"
+  # Hacker News: "#ff6600"
+  # Designer News: "#2D72D9"
+  Email: "#000000"
 
 # Pagination
 paginate: 5
@@ -39,7 +66,9 @@ navigation_header:
   Gruppenleiter*innen: /gruppenleiterinnen/
 
 # Footer nav
-navigation_footer:
+navigation_footer: 
+  <svg class="icon  icon--instagram" role="img" alt="instagram"><title>Instagram</title><use xlink:href="#instagram" fill="CurrentColor"></use></svg>: https://instagram.com/vcp_kirchhain
+  <svg class="icon  icon--email" role="img" alt="email"><title>E-Mail</title><use xlink:href="#email" fill="CurrentColor"></use></svg>: "mailto:hallo@vcp-kirchhain.de"
   Datenschutzerklärung: "/datenschutz/"
   Impressum: "/impressum/"
   Nach oben: "#top"
