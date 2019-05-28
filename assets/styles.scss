@@ -3,11 +3,25 @@
 
 @charset "utf-8";
 
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #004287 !default;
+
+// Text colours
+$headingColour: #242e2b !default;
+$bodyColour: #384743 !default;
+$linkColour: #00834d !default;
+$hoverColour: #5cbd00 !default;
+$focusColour: #701a32 !default;
+$captionColour: #ed3422 !default;
+$white: #ffffff !default;
+
 @import "alembic";
 
 .feature h1, .feature h2, .feature h3, .feature h4, .feature h5, .feature {
-    color: white;
-    text-shadow: 0px 0px 4px black;
+    color: $white;
+    text-shadow: 0px 0px 4px $headingColour;
 }
 
 img[src*="#onethird"] {
@@ -27,3 +41,4 @@ img[src*="#twothird"] {
 p {
     display: inline-block;
 }
+
