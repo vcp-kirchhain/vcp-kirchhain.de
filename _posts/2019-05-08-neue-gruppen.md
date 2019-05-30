@@ -39,3 +39,6 @@ Alle unsere Gruppen sind noch offen für neue Pfadfinder\*innen. Auch wenn ihr n
 Bei Fragen euch auch mit einer kurzen Mail an die Gruppenleiter\*in oder an [hallo@vcp-kirchhain.de](mailto:hallo@vcp-kirchhain.de) wenden.
 
 [Zur aktuellen Übersicht der Gruppenstunden](/gruppen/)
+
+
+Dieser Artikel erschien auch auf [nh34.de](https://nh24.de/2019/05/14/kirchhainer-pfadfindergruppen-erfreuen-sich-starker-nachfrage/) und in der Oberhessischen Presse (link folgt).
