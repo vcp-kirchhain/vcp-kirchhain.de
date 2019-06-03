@@ -2,7 +2,7 @@
 layout: post
 title: "Unser erstes Abenteuer"
 categories:
-- Kirchhainer Anzeiger
+- Kirchhainer-Anzeiger
 - Veranstaltungen
 feature_image: "/assets/2019-03-30-uebernachtung.jpg"
 ---

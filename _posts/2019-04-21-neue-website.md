@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Neue Website
-categories:
-- Allgemein
 feature_image: "/assets/header/ofen.jpg"
 ---
 

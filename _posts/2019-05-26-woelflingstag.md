@@ -2,7 +2,6 @@
 layout: post
 title: Landeswölflingstag
 categories:
-- Allgemein
 - Veranstaltungen
 feature_image: "/assets/2019-05-26-woelflingstag/2_essen.jpg"
 ---

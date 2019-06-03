@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Neue Gruppeneinteilung
-categories:
-- Allgemein
 feature_image: "/assets/header/lachsbrett_feuer.jpg"
 ---
 

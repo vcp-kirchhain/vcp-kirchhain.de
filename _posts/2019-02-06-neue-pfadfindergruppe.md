@@ -2,7 +2,7 @@
 layout: post
 title: Neue Pfadfindergruppe in Kirchhain
 categories:
-- Kirchhainer Anzeiger
+- Kirchhainer-Anzeiger
 feature_image: "/assets/header/wandern.jpg"
 ---
 
