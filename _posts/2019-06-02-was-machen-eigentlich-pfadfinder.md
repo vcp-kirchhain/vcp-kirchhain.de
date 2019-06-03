@@ -18,11 +18,11 @@ Durch das „Konzept der kleinen Gruppe“, das sich bei den Pfadfindern etablie
 
 **Was macht uns aus?**
 
-Bei uns können sich die Kinder neu entfalten und einmal Abstand zum digitalisierten Alltag und dem Stress in der Schule nehmen. Bei uns geht es nicht um Leistung, sondern darum gemeinsam schöne Stunden und Tage zu erleben. Wir gehen zurück in die Natur, der man im täglichen Leben viel zu wenig Aufmerksamkeit schenkt. Die Kinder haben nicht nur die Chance Pfade zu finden, sondern auch Freunde für's Leben, denn Abenteuer schweißen uns mehr zusammen als alles andere. Wir lernen voneinander und wir helfen einander, an welchem an- deren Ort gibt es so viel Zusammenhalt wie bei den Pfadfindern?
+Bei uns können sich die Kinder neu entfalten und einmal Abstand zum digitalisierten Alltag und dem Stress in der Schule nehmen. Bei uns geht es nicht um Leistung, sondern darum gemeinsam schöne Stunden und Tage zu erleben. Wir gehen zurück in die Natur, der man im täglichen Leben viel zu wenig Aufmerksamkeit schenkt. Die Kinder haben nicht nur die Chance Pfade zu finden, sondern auch Freunde für's Leben, denn Abenteuer schweißen uns mehr zusammen als alles andere. Wir lernen voneinander und wir helfen einander, an welchem anderen Ort gibt es so viel Zusammenhalt wie bei den Pfadfindern?
 
 Für weitere Informationen besuchen Sie gerne unsere Webseite [www.vcp-kirchhain.de](www.vcp-kirchhain.de) oder schreiben Sie eine Mail an [hallo@vcp-kirchhain.de](mailto:hallo@vcp-kirchhain.de).
 
-*Lisa Semmler*
+*Lisa Semler*
 
 ## Die Pfadfinder in Kirchhain
 Mit 15 Kindern in einer Gruppe ist es manchmal ganz schön viel. Deswegen haben wir uns entschlossen, verschiedene Gruppen einzuteilen. Zwei der Gruppen sind wie gehabt am Mittwoch, die dritte Gruppe ist donnerstags. Alle Details finden Sie auf unserer Website: [https://vcp-kirchhain.de/gruppen/](https://vcp-kirchhain.de/gruppen/)
