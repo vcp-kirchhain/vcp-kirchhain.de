@@ -71,6 +71,8 @@ navigation_header:
 
 # Footer nav
 navigation_footer: 
+  - title: <svg class="icon  icon--facebook" role="img" alt="facebook"><title>Facebook</title><use xlink:href="#facebook" fill="CurrentColor"></use></svg>
+    url: https://www.facebook.com/vcpkirchhain/
   - title: <svg class="icon  icon--instagram" role="img" alt="instagram"><title>Instagram</title><use xlink:href="#instagram" fill="CurrentColor"></use></svg>
     url: https://instagram.com/vcp_kirchhain
   - title: <svg class="icon  icon--email" role="img" alt="email"><title>E-Mail</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
