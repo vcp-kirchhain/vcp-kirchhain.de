@@ -60,10 +60,14 @@ paginate_path: aktuelles/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  Aktuelles: /aktuelles/
-  Gruppen: /gruppen/
-  Gruppenleiter*innen: /gruppenleiterinnen/
+  - title: Home
+    url: /
+  - title: Aktuelles
+    url: /aktuelles/
+  - title: Gruppen
+    url: /gruppen/
+  - title: Gruppenleiter*innen
+    url: /gruppenleiterinnen/
 
 # Footer nav
 navigation_footer: 
