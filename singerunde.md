@@ -14,7 +14,7 @@ Wir sind eine junge Singerunde, zusammengesetzt aus verschiedenen Pfadfinder*inn
 - Wann? erster Montag im Monat, ab 19:00 Uhr
 - Wo? Augustenruh (gegenüber der E-Kirche) bei gutem Wetter, bei schlechtem Wetter an wechselnden Orten.
 - Ansprechpartner: Jonas Höchst
-- Kontakt: [mailto:pfadfinder@jonashoechst.de](pfadfinder@jonashoechst.de)
+- Kontakt: [pfadfinder@jonashoechst.de](mailto:pfadfinder@jonashoechst.de)
 - kurzfristige Absprachen über Telegram-Gruppe: [https://t.me/singerunde_marburg](https://t.me/singerunde_marburg)
 
 
