@@ -2,14 +2,19 @@
 layout: page
 feature_image: "/assets/header/gitarre.jpg"
 feature_text: |
-  # VCP Singerunde Marburg
+  # Überbündische Singerunde Marburg
 
 ---
-  *In die Sonne, die Ferne hinaus, lasst die Sorgen, den Alltag zuhaus!*
+
+*In die Sonne, die Ferne hinaus, lasst die Sorgen, den Alltag zuhaus!*
+
+Wir sind eine junge Singerunde, zusammengesetzt aus verschiedenen Pfadfinder*innen, Bündischen und Singe-begeisterten und freuen uns über alle, die Lust am Singen haben.
 
 ## nächste Singerunde
-- Montag, 06. Mai ab 18.00 Uhr
-- Treffpunkt: an der Lahn, nahe Erlenring
+- Wann? erster Montag im Monat, ab 19:00 Uhr
+- Wo? Augustenruh (gegenüber der E-Kirche) bei gutem Wetter, bei schlechtem Wetter an wechselnden Orten.
+- Ansprechpartner: Jonas Höchst
+- Kontakt: [mailto:pfadfinder@jonashoechst.de](pfadfinder@jonashoechst.de)
 - kurzfristige Absprachen über Telegram-Gruppe: [https://t.me/singerunde_marburg](https://t.me/singerunde_marburg)
 
 
