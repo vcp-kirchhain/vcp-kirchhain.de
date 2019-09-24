@@ -12,7 +12,7 @@ feature_text: |
 - Mittwochs, 17:00 - 18:30 Uhr
 - Stufe: Kinderstufe
 
-##### Sippe 1
+##### Sippe Wölfe
 
 - Alter: 10 bis 12 Jahre
 - Gruppenleiterin: [Jonas Höchst](mailto:jonas@vcp-kirchhain.de)
@@ -20,7 +20,7 @@ feature_text: |
 - Stufe: Jungpfadfinder*innenstufe
 
 
-##### Sippe 2
+##### Sippe Faultiere
 
 - Alter: 12 bis 13 Jahre
 - Gruppenleiterin: [Robin Günkel](mailto:robin@vcp-kirchhain.de)
