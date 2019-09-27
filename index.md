@@ -7,10 +7,13 @@ feature_text: |
   Verband Christlicher Pfadfinderinnen und Pfadfinder
 ---
 
-Der VCP Kirchhain ist ein Pfadfinderstamm in [Kirchhain](https://www.kirchhain.de) vom [Verband Christlicher Pfadfinderinnen und Pfadfinder](https://www.vcp.de). 
+Der VCP Kirchhain ist ein Pfadfinderstamm-Neuanfang in [Kirchhain](https://www.kirchhain.de) vom [Verband Christlicher Pfadfinderinnen und Pfadfinder](https://www.vcp.de). 
 
-![Gruppenbild von unserer ersten gemeinsamen Übernachtung](assets/2019-03-30-uebernachtung.jpg)
-Gruppenbild von unserer ersten gemeinsamen Übernachtung im März 2019.
+<!--![Gruppenbild von unserer ersten gemeinsamen Übernachtung](assets/2019-03-30-uebernachtung.jpg)
+Gruppenbild von unserer ersten gemeinsamen Übernachtung im März 2019.-->
+
+![Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.](assets/2019-09-26-gemeinsame-sippenstunde.jpg)
+Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.
 
 ### Gruppenstunde
 
@@ -20,4 +23,4 @@ Unsere Gruppenstunden finden in der Schulzeit [an wechselnden Tagen](/gruppen/) 
 
 ### Unser Ausrüster
 
-[![Logo Freizeit und Fahrtenbedarf](/assets/freizeit-und-fahrtenbedarf.png#onethird)](https://www.fahrtenbedarf.de)Freizeit und Fahrtenbedarf ist unser Ausrüster. Hier gibt es unsere Klufthemden, Messer, Becher und sogar Zelte. Eltern können uns gerne kontaktieren um herauszufinden, welche Anschaffungen Sinnvoll sind und welche nicht.
+[![Logo Freizeit und Fahrtenbedarf](assets/freizeit-und-fahrtenbedarf.png#onethird)](https://www.fahrtenbedarf.de)Freizeit und Fahrtenbedarf ist unser Ausrüster. Hier gibt es unsere Klufthemden, Messer, Becher und sogar Zelte. Eltern können uns gerne kontaktieren um herauszufinden, welche Anschaffungen Sinnvoll sind und welche nicht.

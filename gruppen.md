@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "/assets/header/zelte2.jpg"
+feature_image: "/assets/2019-09-26-gemeinsame-sippenstunde.jpg"
 feature_text: |
   # Gruppen
 ---
