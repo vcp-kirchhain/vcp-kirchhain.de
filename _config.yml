@@ -68,6 +68,8 @@ navigation_header:
     url: /gruppen/
   - title: Gruppenleiter*innen
     url: /gruppenleiterinnen/
+  - title: Dokumente
+    url: /downloads/
 
 # Footer nav
 navigation_footer: 
