@@ -30,6 +30,18 @@ baseurl: ''
 permalink: pretty
 email: "hallo@vcp-kirchhain.de"
 
+favicons:
+  32: '/assets/logos/vcp@32.png'
+  128: '/assets/logos/vcp@128.png'
+  152: '/assets/logos/vcp@152.png'
+  167: '/assets/logos/vcp@167.png'
+  180: '/assets/logos/vcp@180.png'
+  192: '/assets/logos/vcp@192.png'
+  196: '/assets/logos/vcp@196.png'
+  256: '/assets/logos/vcp@256.png'
+  512: '/assets/logos/vcp@512.png'
+  1024: '/assets/logos/vcp@1024.png'
+
 social:
   name: VCP Kirchhain
   links:
