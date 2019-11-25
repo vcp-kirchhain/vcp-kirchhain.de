@@ -5,6 +5,9 @@ feature_text: |
   # Dokumente
 ---
 
-- [Datenblatt](/downloads/Datenblatt.pdf) zur Angabe von persönlichen Daten und Kontaktinformationen
-- [VCP-Mitgliedsantrag](https://www.vcp.de/fileadmin/user_upload/medien/Dokumente/Mitgliedschaft/VCP-Mitgliedsantrag_10_2018.pdf) zur Anmeldung im VCP
-- [Stammesordnung](/downloads/Stammesordnung.pdf), vorläufige Version
+- [Datenblatt](Datenblatt.pdf){:target="_blank"} zur Angabe von persönlichen Daten und Kontaktinformationen
+- [VCP-Mitgliedsantrag](https://www.vcp.de/fileadmin/user_upload/medien/Dokumente/Mitgliedschaft/VCP-Mitgliedsantrag_10_2018.pdf){:target="_blank"}
+- [Stammesordnung](Stammesordnung.pdf){:target="_blank"}, vorläufige Version
+
+## Archiv
+- [Präsentationsfolien vom Elternabend am 14. November 2019](2019-11-14_Elternabend.pdf){:target="_blank"}
