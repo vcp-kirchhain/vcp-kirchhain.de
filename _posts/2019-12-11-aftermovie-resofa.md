@@ -8,9 +8,6 @@ feature_image: "/assets/header/tatra-hajk-mll.jpg"
 
 Drei der Gruppenleiter aus Kirchhain waren im Sommer mit auf der Regions-Sommerfahrt in die Hohe Tatra. Jetzt gibt das Aftermovie - ein Ausblick was uns nächstes Jahr auf dem Landeslager so erwarten kann.
 
-
-<!-- <iframe width="100%" style="height: 56.25%;" src="https://www.youtube.com/embed/mAILG_PV14M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
 <style>
     .embed-container { 
         position: relative; 

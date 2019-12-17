@@ -12,8 +12,12 @@ Der VCP Kirchhain ist ein Pfadfinderstamm-Neuanfang in [Kirchhain](https://www.k
 <!--![Gruppenbild von unserer ersten gemeinsamen Übernachtung](assets/2019-03-30-uebernachtung.jpg)
 Gruppenbild von unserer ersten gemeinsamen Übernachtung im März 2019.-->
 
-![Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.](assets/2019-09-26-gemeinsame-sippenstunde.jpg)
-Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.
+<!--![Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.](assets/2019-09-26-gemeinsame-sippenstunde.jpg)
+Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.-->
+
+![Gruppenbild von der Fahrt zum Friedenslichtgottesdienst in Fulda 2019.](assets/2019-12-15-frili/gruppenfoto.jpg)
+Gruppenbild von der Fahrt zum Friedenslichtgottesdienst in Fulda 2019.
+
 
 ### Gruppenstunde
 
