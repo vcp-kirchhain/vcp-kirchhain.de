@@ -20,3 +20,7 @@ Am Sonntag sind wir dann gemeinsam mit einigen Eltern zum Aussendungsgottesdiens
 Das Friedenslicht wird zusätzlich am Mittwoch, den 18. Dezember in einer Andacht in der Stadtkirche in Kirchhain verteilt, Sie sind herzlich dazu eingeladen!
 
 ![Friedenslicht in einem Zinkeimer mit dem Liedblatt des Gottesdienstes](/assets/2019-12-15-frili/gottesdienst.jpg)
+
+###### Dieser Artikel ist außerdem erschienen in:
+
+- [Oberhessische Presse vom 17. Dezember 2019](/assets/references/2019-12-17-oberhessische-presse.jpg)
