@@ -18,6 +18,33 @@ Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.-->
 ![Gruppenbild von der Fahrt zum Friedenslichtgottesdienst in Fulda 2019.](assets/2019-12-15-frili/gruppenfoto.jpg)
 Gruppenbild von der Fahrt zum Friedenslichtgottesdienst in Fulda 2019.
 
+### Was machen Pfadfinder?
+
+Pfadfinder - Kekse verkaufen, alten Omas über die Straße helfen, Wandern? 
+Das und noch viel mehr machen wir, ab seht selbst...
+
+
+<style>
+    .embed-container { 
+        position: relative; 
+        padding-bottom: 56.25%; 
+        height: 0; 
+        overflow: hidden; 
+        max-width: 100%; 
+    } 
+    .embed-container iframe, .embed-container object, .embed-container embed { 
+        position: absolute; 
+        top: 0; 
+        left: 0; 
+        width: 100%; 
+        height: 100%; 
+    }
+</style>
+    
+<div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/n3-xTtaAODo' frameborder='0' allowfullscreen></iframe>
+</div>
+
 
 ### Gruppenstunde
 
