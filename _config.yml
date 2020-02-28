@@ -22,9 +22,9 @@ plugins:
 # Site settings
 encoding: utf-8
 lang: de-DE
-title: 'VCP Stamm Kirchhain'
+title: 'VCP Kirchhain'
 logo: "/assets/vcp.svg"
-description: 'Der VCP Kirchhain ist ein Pfadfinderstamm in Kirchhain (Kreis Marburg-Biedenkopf) vom Verband Christlicher Pfadfinderinnen und Pfadfinder.'
+description: 'Ein Pfadfinderstamm in Kirchhain (Kreis Marburg-Biedenkopf) vom Verband Christlicher Pfadfinder*innen'
 url: 'https://vcp-kirchhain.de'
 baseurl: ''
 permalink: pretty
@@ -91,7 +91,7 @@ navigation_footer:
     url: https://instagram.com/vcp_kirchhain
   - title: <svg class="icon  icon--email" role="img" alt="email"><title>E-Mail</title><use xlink:href="#email" fill="CurrentColor"></use></svg>
     url: "mailto:hallo@vcp-kirchhain.de"
-  - title: Datenschutzerklärung
+  - title: Datenschutz
     url: "/datenschutz/"
   - title: Impressum
     url: "/impressum/"
