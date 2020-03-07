@@ -6,7 +6,7 @@ categories:
 feature_image: "/assets/2019-05-26-woelflingstag/2_essen.jpg"
 ---
 
-![Gruppenbild von unserer ersten Übernachtung](/assets/2019-03-30-uebernachtung.jpg#twothird)Seit Februar 2019 gibt es unsere neue Pfadfindergruppe in Kirchhain schon. Wir bieten wöchentlich Gruppenstunden für Kinder und Jugendliche an und veranstalten gemeinsam Tages- und Wochenendausflüge, sowie das ein oder andere Zeltlager für die älteren Kinder. Nach dem Stufensystem des VCP (Verbandes Christlicher Pfadfinder\*innen) sind unsere Gruppen altersabhängig getrennt, um das Programm so ansprechend wie möglich zu gestalten. Momentan gibt es bei uns drei Gruppen: Die Wölflinge und zwei Jungpfadfinder*innen Sippen.
+![Gruppenbild von unserer ersten Übernachtung](/assets/2019-03-30-uebernachtung.jpg#twothird#right)Seit Februar 2019 gibt es unsere neue Pfadfindergruppe in Kirchhain schon. Wir bieten wöchentlich Gruppenstunden für Kinder und Jugendliche an und veranstalten gemeinsam Tages- und Wochenendausflüge, sowie das ein oder andere Zeltlager für die älteren Kinder. Nach dem Stufensystem des VCP (Verbandes Christlicher Pfadfinder\*innen) sind unsere Gruppen altersabhängig getrennt, um das Programm so ansprechend wie möglich zu gestalten. Momentan gibt es bei uns drei Gruppen: Die Wölflinge und zwei Jungpfadfinder*innen Sippen.
 
 **Die Wölflinge (Alter ca. 7 – 10 Jahre)**
 

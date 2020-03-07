@@ -7,6 +7,7 @@ feature_image: "/assets/2019-05-26-woelflingstag/1_gruppe.jpg"
 ---
 
 **Am Samstag haben die Kirchhainer Pfadfinder mit zwölf Kindern und zwei Betreuern den Landeswölflingstag des Verbandes Christlicher Pfadfinderinnen und Pfadfinder (VCP) im Wildpark in Groß-Gerau besucht.**
+
 ![Gruppenbild von unserer ersten Übernachtung](/assets/2019-05-26-woelflingstag/1_gruppe.jpg)
 
 **Kirchhain.** Wölflinge heißen bei den Pfadfindern die jüngsten Kinder im Alter von sieben bis zehn Jahren. An dem Wölflingstag haben insgesamt mehr als 150 Kinder aus ganz Hessen teilgenommen.

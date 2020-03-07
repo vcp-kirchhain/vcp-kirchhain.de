@@ -13,7 +13,7 @@ Am Freitag Abend haben wir uns mit der Struktur eines Pfadfinderstammes beschäf
 ![](/assets/2019-12-15-frili/demokratie.jpg)
 
 
-![Anzünden der Fackeln für die gemeinsame Andacht](/assets/2019-12-15-frili/andacht.jpg#onethird) Am Samstag haben wir Plätzchen gebacken, Windlichter gestaltet und verschiedene Spiele gespielt. Abends gab es dann eine Andacht, bei der vier Pfadfinder die Gelegenheit bekamen ihr Versprechen abzulegen und damit auch ihr Pfadfinderhalstuch verliehen bekamen. 
+![Anzünden der Fackeln für die gemeinsame Andacht](/assets/2019-12-15-frili/andacht.jpg#onethird#right) Am Samstag haben wir Plätzchen gebacken, Windlichter gestaltet und verschiedene Spiele gespielt. Abends gab es dann eine Andacht, bei der vier Pfadfinder die Gelegenheit bekamen ihr Versprechen abzulegen und damit auch ihr Pfadfinderhalstuch verliehen bekamen. 
 
 Am Sonntag sind wir dann gemeinsam mit einigen Eltern zum Aussendungsgottesdienstes nach Fulda gefahren, um das Friedenslicht aus Betlehem dort entgegen zu nehmen. Gemeinsam mit vielen anderen Pfadfinder\*innen aus der gesamten Landeskirche haben wir dort einen Gottesdienst zum Thema "Mut zum Frieden" gefeiert. Das Friedenslicht wurde im Anschluss mit dem Zug nach Kirchhain transportiert und dort in einer ökumenischen Andacht in der Katholischen Kirche verteilt.
 
