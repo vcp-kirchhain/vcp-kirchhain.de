@@ -12,6 +12,9 @@ feature_text: |
 - Mittwochs, 17:00 - 18:30 Uhr
 - Stufe: Kinderstufe
 
+
+![](/assets/gruppen/woelflinge.jpg)
+
 ##### Sippe Wölfe
 
 - Alter: 10 bis 12 Jahre
@@ -19,6 +22,7 @@ feature_text: |
 - Donnerstags, 18:00 - 19:30 Uhr
 - Stufe: Jungpfadfinder*innenstufe
 
+![](/assets/gruppen/sippe_woelfe.jpg)
 
 ##### Sippe Faultiere
 

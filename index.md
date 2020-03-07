@@ -54,4 +54,4 @@ Unsere Gruppenstunden finden in der Schulzeit [an wechselnden Tagen](/gruppen/) 
 
 ### Unser Ausrüster
 
-[![Logo Freizeit und Fahrtenbedarf](assets/freizeit-und-fahrtenbedarf.png#onethird)](https://www.fahrtenbedarf.de)Freizeit und Fahrtenbedarf ist unser Ausrüster. Hier gibt es unsere Klufthemden, Messer, Becher und sogar Zelte. Eltern können uns gerne kontaktieren um herauszufinden, welche Anschaffungen sinnvoll sind und welche nicht.
+[![Logo Freizeit und Fahrtenbedarf](assets/freizeit-und-fahrtenbedarf.png#onethird#right)](https://www.fahrtenbedarf.de)[Freizeit und Fahrtenbedarf](https://www.fahrtenbedarf.de) ist unser Ausrüster. Hier gibt es unsere Klufthemden, Messer, Becher und sogar Zelte. Eltern können uns gerne kontaktieren um herauszufinden, welche Anschaffungen sinnvoll sind und welche nicht.
