@@ -3,6 +3,7 @@ layout: post
 title: "Pfadfinder und das Coronavirus (3)"
 categories:
 - Allgemein
+- Coronavirus
 feature_image: "/assets/corona.png"
 ---
 
