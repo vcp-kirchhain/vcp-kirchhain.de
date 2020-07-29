@@ -56,7 +56,7 @@ Ein **Rucksack** sollte ausreichend Volumen (mindestens 50 + 10 Liter) bieten, e
 Ein [**Mumienschlafsack**](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?show510000,414480360758677) mit Kapuze hält die Wärme in der Nacht am besten. Es gibt verschiedene Temperaturbereiche, zunächst reicht ein Schlafsack im mittleren Bereich mit Komfort-Temperatur von 5°C. 
 F&F bietet [allgemeine Informationen](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd1210990310!0,414480360758677,Schlafsack) zu Schlafsäcken und ein 3-Klassen System, das zur Kaufentscheidung hilfreich sein können. 
 
-**Inlets** gibt es aus [Baumwolle (kein Temperaturgewinn)](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd513000!0,414480360758677,514110), [Seide (+5°C)](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd513000!0,414480360758677,512820), [Flanell (+6°C)](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd513000!0,414480360758677,514220) oder [Fleece (+5°C)](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd513000!0,414480360758677,514520) und dienen in erster Linie dazu, den Schlafsack vor Verschmutzung (und der daraus resultierenden aufwändigen Reinigungung) zu schützen. Sie können jedoch in heißen Nächten auch statt des Schlafsacks oder mit offenem Schlafsack verwendet werden und in kalten Nächten eine höhere Temperatur ermöglichen.  
+**Inlets** gibt es aus [Baumwolle (kein Temperaturgewinn)](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd513000!0,414480360758677,514110), [Seide (+5°C)](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd513000!0,414480360758677,512820), [Flanell (+6°C)](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd513000!0,414480360758677,514220) oder [Fleece (+5°C)](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd513000!0,414480360758677,514520) und dienen in erster Linie dazu, den Schlafsack vor Verschmutzung (und der daraus resultierenden aufwändigen Reinigung) zu schützen. Sie können jedoch in heißen Nächten auch statt des Schlafsacks oder mit offenem Schlafsack verwendet werden und in kalten Nächten lässt sich so eine niedrigere Temperatur aushalten.  
 
 ##### Isomatte
 ![Thermarest Isomatte](/assets/produkte/thermarest.jpg#onethird#right)
@@ -103,7 +103,7 @@ Je nach Zielort der Fahrt und geplantem Programm des Lagers, sollten **Badeklamo
 
 ##### Taschenlampe
 ![Kopflampe](/assets/produkte/kopflampe.jpg#onethird#right)
-Hier gilt: weniger ist mehr, denn helle Taschenlampen sind zwar beeindruckend beim gegenseitigen vergleich, führen aber nur dazu, dass man sich blendet und am Ende gar nichts mehr sieht. Sinnvoll ist eine [Stirnlampe mit zusätzlicher Rotlicht-Funktion](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd564800!0,937389635558677,564773) - diese sorgt dafür, dass auch im dunkeln andere nicht geblendet werden, weil die Augen auf rotes Licht nicht so empfindlich reagieren. 
+Hier gilt: weniger ist mehr, denn helle Taschenlampen sind zwar beeindruckend beim gegenseitigen Vergleich, führen aber nur dazu, dass man sich blendet und am Ende gar nichts mehr sieht. Sinnvoll ist eine [Stirnlampe mit zusätzlicher Rotlicht-Funktion](https://www.fahrtenbedarf.de/cgi-bin/shop/iboshop.cgi?showd564800!0,937389635558677,564773) - diese sorgt dafür, dass auch im dunkeln andere nicht geblendet werden, weil die Augen auf rotes Licht nicht so empfindlich reagieren. 
 
 # Für Lager
 
@@ -117,10 +117,16 @@ Unsere internen Liederbücher sind das **Pfadiralala IV** und das **Pfadiralala 
 Flip-Flops oder Sandalen sind auf dem Lager eine gute Abwechslung zu den schweren Wanderschuhen.
 
 ##### Sonstiges
-Kleinigkeiten, die je nach persönlichem Bedarf nicht fehlen dürfen: Sonnencreme, Medikamente, Taschentücher, Buch, Kartenspiel, Kuscheltier, Kissen.
+Kleinigkeiten, die je nach persönlichem Bedarf nicht fehlen dürfen: Sonnencreme, spezielle Medikamente, Taschentücher, Buch, Kartenspiel, Kuscheltier, Kissen.
 
 # Zu Hause lassen
 
 ##### Mobiltelefone und jegliche Unterhaltungselektronik
 Wir wollen schließlich zusammen etwas erleben. Wir Leiter schauen regelmäßig auf unser Handy, falls sich Eltern bei uns melden. Außerdem geht diese Art der Technik besonders gerne bei Wind und Wetter kaputt.
 
+##### Süßigkeiten
+Eine Süßigkeit mitzunehmen ist in Ordnung, aber bitte nicht übermäßig viel, bei den Pfadfindern teilen wir gegenseitig.
+Auch Softdrinks müssen nicht dabei sein, am besten 
+
+##### Zusätzliche Gadgets
+Das Messer sollte nicht zu groß sein, ab einer gewissen Größe wirde der Umgang damit kompilzierter und es lohnt sich nicht so viel zusätzlich einzupacken.
