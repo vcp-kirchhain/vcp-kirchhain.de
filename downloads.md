@@ -6,7 +6,7 @@ feature_text: |
 ---
 
 - [Datenblatt](Datenblatt.pdf){:target="_blank"} zur Angabe von persönlichen Daten und Kontaktinformationen
-- [VCP-Mitgliedsantrag](https://www.vcp.de/fileadmin/user_upload/medien/Dokumente/Mitgliedschaft/VCP-Mitgliedsantrag_10_2018.pdf){:target="_blank"}
+- [VCP-Mitgliedsantrag](https://www.vcp.de/fileadmin/user_upload/medien/Dokumente/Mitgliedschaft/VCP-Mitgliedsantrag.pdf){:target="_blank"}
 - [Stammesordnung](Stammesordnung.pdf){:target="_blank"}, vorläufige Version
 - [kommentierte Packliste](/packliste/)
 
