@@ -3,6 +3,7 @@ layout: post
 title: Was machen eigentlich Pfadfinder?
 categories:
 - Gemeindebrief-Kirchhain
+- Allgemein
 feature_image: "/assets/2019-05-26-woelflingstag/2_essen.jpg"
 ---
 

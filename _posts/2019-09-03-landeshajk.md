@@ -2,7 +2,7 @@
 layout: post
 title: "Landeshajk"
 categories:
-- Allgemein
+- Veranstaltungen
 feature_image: "/assets/2019-09-01-landeshajk/laufen.jpg"
 ---
 

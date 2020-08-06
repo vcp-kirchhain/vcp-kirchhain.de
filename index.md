@@ -15,8 +15,11 @@ Gruppenbild von unserer ersten gemeinsamen Übernachtung im März 2019.-->
 <!--![Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.](assets/2019-09-26-gemeinsame-sippenstunde.jpg)
 Gruppenbild aus einer gemeinsamen Gruppenstunde vor den Herbstferien 2019.-->
 
-![Gruppenbild von der Fahrt zum Friedenslichtgottesdienst in Fulda 2019.](assets/2019-12-15-frili/gruppenfoto.jpg)
-Gruppenbild von der Fahrt zum Friedenslichtgottesdienst in Fulda 2019.
+<!--![Gruppenbild von der Fahrt zum Friedenslichtgottesdienst in Fulda 2019.](assets/2019-12-15-frili/gruppenfoto.jpg)
+Gruppenbild von der Fahrt zum Friedenslichtgottesdienst in Fulda 2019.-->
+
+![Gruppenbild vom Sommerlager 2020 an der Lahn.](/assets/2020-07-sommerlager/sola20-72.jpg)
+Gruppenbild vom Sommerlager 2020 an der Lahn.
 
 ### Was machen Pfadfinder?
 

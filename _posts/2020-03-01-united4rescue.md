@@ -2,7 +2,7 @@
 layout: post
 title: "United4Rescue Waffelaktion"
 categories:
-- Allgemein
+- Aktionen
 feature_image: "/assets/2020-03-01-united4rescue/united4rescue-kirchhain-5.jpg"
 ---
 

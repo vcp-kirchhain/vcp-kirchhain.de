@@ -3,6 +3,7 @@ layout: post
 title: Wölflinge gehen auf große Fahrt
 categories:
 - Oberhessische-Presse
+- Veranstaltungen
 feature_image: "/assets/2019-05-26-woelflingstag/1_gruppe.jpg"
 ---
 

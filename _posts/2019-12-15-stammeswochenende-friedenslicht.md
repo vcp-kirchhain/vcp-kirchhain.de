@@ -2,7 +2,7 @@
 layout: post
 title: "Stammeswochenende & Friedenslicht"
 categories:
-- Allgemein
+- Veranstaltungen
 feature_image: "/assets/2019-12-15-frili/gruppenfoto-header.jpg"
 ---
 
