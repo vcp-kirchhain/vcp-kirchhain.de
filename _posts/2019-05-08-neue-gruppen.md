@@ -3,6 +3,7 @@ layout: post
 title: Neue Gruppeneinteilung
 categories:
 - Allgemein
+- nh24.de
 feature_image: "/assets/header/lachsbrett_feuer.jpg"
 ---
 
@@ -41,4 +42,4 @@ Bei Fragen euch auch mit einer kurzen Mail an die Gruppenleiter\*in oder an [hal
 [Zur aktuellen Übersicht der Gruppenstunden](/gruppen/)
 
 
-Dieser Artikel erschien auch auf [nh34.de](https://nh24.de/2019/05/14/kirchhainer-pfadfindergruppen-erfreuen-sich-starker-nachfrage/) und in der Oberhessischen Presse (link folgt).
+Dieser Artikel erschien auch auf [nh24.de](https://nh24.de/2019/05/14/kirchhainer-pfadfindergruppen-erfreuen-sich-starker-nachfrage/) und in der Oberhessischen Presse (link folgt).

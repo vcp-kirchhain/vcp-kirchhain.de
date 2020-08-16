@@ -3,6 +3,8 @@ layout: post
 title: "Stammeswochenende & Friedenslicht"
 categories:
 - Veranstaltungen
+- Oberhessische Presse
+- nh24.de
 feature_image: "/assets/2019-12-15-frili/gruppenfoto-header.jpg"
 ---
 
@@ -24,3 +26,4 @@ Das Friedenslicht wird zusätzlich am Mittwoch, den 18. Dezember in einer Andach
 ###### Dieser Artikel ist außerdem erschienen in:
 
 - [Oberhessische Presse vom 17. Dezember 2019](/assets/references/2019-12-17-oberhessische-presse.jpg)
+- [nh24.de am 20. Dezember 2019](https://nh24.de/2019/12/20/pfadfinderinnen-holen-friedenslicht-nach-kirchhain/)
