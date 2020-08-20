@@ -28,5 +28,8 @@ main article p a:hover {
 }
 </style>
 
+[Infos & Anmeldung zum PfadiTag 2020](/downloads/2020-08-20-pfaditag.pdf)
+[MeinKirchhain: Pfadfinder*innen aus Kirchhain bekommen doch ein Sommerlager](https://www.meinkirchhain.de/post/pfadfinder-innen-aus-kirchhain-bekommen-doch-ein-sommerlager)
+[QuarkAntenne [YouTube Kanal Aufnahme & Versprecher]](https://www.youtube.com/playlist?list=PLcUjR-xh4IQsmBeZHNDhqFFZJz749Z2lks)
 [Aktionsbündnis United4Rescue - Gemeinsam Retten](https://www.united4rescue.com)
 [Gemeinsam am Lagerfeuer - Radiogeschichte](https://kinder.wdr.de/radio/kiraka/hoeren/radiogeschichten/pfadfinder-106.html)
