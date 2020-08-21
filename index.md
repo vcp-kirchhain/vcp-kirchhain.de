@@ -7,7 +7,7 @@ feature_text: |
   Verband Christlicher Pfadfinderinnen und Pfadfinder
 ---
 
-> **Aktuell:** Willst du Pfadfinder mal ausprobieren? Was machen wir wohl noch außer Kekse backen? Am Samstag, 28.08. ist PfadiTag in Kirchhain, dort kannst du es herausfinden! 
+> **Aktuell:** Willst du Pfadfinder mal ausprobieren? Was machen wir wohl noch außer Kekse backen? Am Samstag, 29.08.2020 ist PfadiTag in Kirchhain, dort kannst du es herausfinden! 
 > Eingeladen sind alle Kinder und Jugendlichen zwischen 11 und 15 Jahren. [Jetzt Infos durchlesen und anmelden!](downloads/2020-08-20-pfaditag.pdf)
 
 
