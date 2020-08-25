@@ -3,7 +3,7 @@ layout: post
 title: "Stammeswochenende & Friedenslicht"
 categories:
 - Veranstaltungen
-- Oberhessische Presse
+- Oberhessische-Presse
 - nh24.de
 feature_image: "/assets/2019-12-15-frili/gruppenfoto-header.jpg"
 ---
