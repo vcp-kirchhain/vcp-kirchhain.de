@@ -9,7 +9,7 @@ feature_text: |
 
 - Alter: 7 bis 10 Jahre
 - Gruppenleiterin: [Lisa Semler](mailto:lisa@vcp-kirchhain.de)
-- Mittwochs, 17:00 - 18:30 Uhr
+- Mittwochs, 17:00 - 18:00 Uhr
 - Stufe: Kinderstufe
 
 
@@ -28,7 +28,7 @@ feature_text: |
 
 - Alter: 12 bis 13 Jahre
 - Gruppenleiterin: [Robin Günkel](mailto:robin@vcp-kirchhain.de)
-- Mittwochs, 17:00 - 18:30 Uhr
+- Mittwochs, 18:00 - 19:30 Uhr
 - Stufe: Jungpfadfinder*innenstufe
 
 ### Hast du auch Lust, Pfade zu finden?
