@@ -10,9 +10,11 @@ feature_image: "/assets/2019-06-17-lager/gruppe.jpg"
 
 ![Ein Pfadfinder schlägt einen Hering aus Holz durch die Schlaufe der Kohte in den Boden](/assets/2020-07-sommerlager/zeltaufbau2.jpg#onethird#right) **KIRCHHAIN.** Draußen sein, Gemeinschaft erleben, Verantwortung für sich selbst und andere zu übernehmen, das können Kinder und Jugendliche bei den evangelischen Pfadfinderinnen und Pfadfindern in Kirchhain erleben. 
 
+Dieser Artikel erschien:
 
-- [Dieser Artikel erschien am 15. Juli 2020 auf nh24.de](https://nh24.de/2020/08/15/pfaditag-und-neue-zelte/)
-- [Eine Variante erschien am 24. August 2020 in der Oberhessischen Presse](/assets/references/2020-08-24-oberhessische-presse.pdf)
+- am 15. Juli 2020 [auf nh24.de](https://nh24.de/2020/08/15/pfaditag-und-neue-zelte/)
+- am 24. August 2020 [in der Oberhessischen Presse](/assets/references/2020-08-24-oberhessische-presse.pdf)
+- am 28. August 2020 [im Kirchhainer Anzeiger](/assets/references/2020-08-26-kirchhainer-anzeiger.pdf)
 
 
 Die Pfadfindergruppe veranstaltet am 29. August 2020 von 14 bis 18:30 Uhr einen Aktionstag für Kinder und Jugendliche zwischen 11 und 16 Jahren, die Lust und Interesse haben selbst einmal das Pfadfinden für einen Nachmittag auszuprobieren.
