@@ -22,7 +22,7 @@ feature_text: |
 - Mittwochs, 18:15 - 19:15 Uhr
 - Stufe: Jungpfadfinder*innen
 
-![](/assets/gruppen/sippe_lisa.jpg)
+<!--![](/assets/gruppen/sippe_lisa.jpg)-->
 
 
 ##### Sippe (neu Herbst 2020)
@@ -32,7 +32,7 @@ feature_text: |
 - Montags, 17:00 - 18:30 Uhr
 - Stufe: Jungpfadfinder*innen
 
-![](/assets/gruppen/sippe_christian.jpg)
+<!--![](/assets/gruppen/sippe_christian.jpg)-->
 
 ##### Sippe Wölfe
 
