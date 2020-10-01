@@ -28,7 +28,7 @@ feature_text: |
 ##### Sippe (neu Herbst 2020)
 
 - Jungs, Alter: {{ 'now' | date: "%Y" | minus: 2010 }} bis {{ 'now' | date: "%Y" | minus: 2008 }} Jahre (Jahrgänge 2008 - 2010)
-- Gruppenleiterin: [Christian Ehrhardt](mailto:christian@vcp-kirchhain.de)
+- Gruppenleiter: [Christian Ehrhardt](mailto:christian@vcp-kirchhain.de)
 - Montags, 17:00 - 18:30 Uhr
 - Stufe: Jungpfadfinder*innen
 
@@ -37,7 +37,7 @@ feature_text: |
 ##### Sippe Wölfe
 
 - Alter: {{ 'now' | date: "%Y" | minus: 2008 }} bis {{ 'now' | date: "%Y" | minus: 2007 }} Jahre (Jahrgänge 2007 - 2008)
-- Gruppenleiterin: [Jonas Höchst](mailto:jonas@vcp-kirchhain.de)
+- Gruppenleiter: [Jonas Höchst](mailto:jonas@vcp-kirchhain.de)
 - Donnerstags, 18:00 - 19:30 Uhr
 - Stufe: Jungpfadfinder*innen
 
@@ -47,7 +47,7 @@ feature_text: |
 ##### Sippe Faultiere
 
 - Alter: {{ 'now' | date: "%Y" | minus: 2007 }} bis {{ 'now' | date: "%Y" | minus: 2006 }} Jahre (Jahrgänge 2006 - 2007)
-- Gruppenleiterin: [Robin Günkel](mailto:robin@vcp-kirchhain.de)
+- Gruppenleiter: [Robin Günkel](mailto:robin@vcp-kirchhain.de)
 - Mittwochs, 18:00 - 19:30 Uhr
 - Stufe: Jungpfadfinder*innen
 
