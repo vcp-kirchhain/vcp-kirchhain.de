@@ -10,6 +10,12 @@ feature_text: |
 <!-- > **Aktuell:** Am 10. September 2020 ist hessischer Tag der Nachhaltigkeit - Und wir machen mit!
 > Unsere Aktion findet unter dem Titel "KochBar: Nachhaltiges Kochen - Regional, Saisonal und vor allem Lecker!" statt. [Jetzt Infos durchlesen](https://www.hessen-nachhaltig.de/de/veranstaltungsdetails.html?show=785) und [per Mail anmelden.](mailto:hallo@vcp-kirchhain.de?subject=Hessischer%20Tag%20der%20Nachhaltigkeit&body=Hallo%20liebes%20Pfads-Team%2C%0D%0A%0D%0Aich%20m%C3%B6chte%20meinen%20Sohn%20%2F%20meine%20Tochter%20zum%20hessischen%20Tag%20der%20Nachhaltigkeit%20am%2010.%20September%202020%20anmelden.%20%0D%0AName%3A%20%0D%0ATelefon%20(erreichbar%20w%C3%A4hrend%20der%20Veranstaltung)%3A%20%0D%0A%0D%0ALiebe%20Gr%C3%BC%C3%9Fe%2C%0D%0A) -->
 
+##### **Aktuell:** Corona und Gruppenstunden
+1. Gruppenstunden finden **nur draußen** statt.
+2. Ab einer Inzidenz von **35** pro 100.000 im Landkreis Marburg-Biedenkopf wird während der Gruppenstunde **ständig ein Mund-Nasen-Schutz** getragen und die Anzahl auf **10 Personen** (inklusive Gruppenleiter*innen) beschränkt.
+3. Ab einer Inzidenz von **50** pro 100.000 finden **keine** physischen Gruppenstunden mehr statt.
+
+### Stamm Kirchhain
 
 Der VCP Kirchhain ist ein Pfadfinderstamm-Neuanfang in [Kirchhain](https://www.kirchhain.de) vom [Verband Christlicher Pfadfinderinnen und Pfadfinder](https://www.vcp.de). 
 
