@@ -15,6 +15,10 @@ feature_text: |
 2. Ab einer Inzidenz von **35** pro 100.000 im Landkreis Marburg-Biedenkopf wird während der Gruppenstunde **ständig ein Mund-Nasen-Schutz** getragen und die Anzahl auf **10 Personen** (inklusive Gruppenleiter*innen) beschränkt.
 3. Ab einer Inzidenz von **50** pro 100.000 finden **keine** physischen Gruppenstunden mehr statt.
 
+Als Ersatz für normale Gruppenstunden gibt's die Pfadi-Challenge: [Infos & Anmeldung](https://vcp-kurhessen.info/pfadi-challenge-2020-anmeldung/).
+
+---
+
 ### Stamm Kirchhain
 
 Der VCP Kirchhain ist ein Pfadfinderstamm-Neuanfang in [Kirchhain](https://www.kirchhain.de) vom [Verband Christlicher Pfadfinderinnen und Pfadfinder](https://www.vcp.de). 
