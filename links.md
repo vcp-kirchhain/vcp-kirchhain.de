@@ -28,8 +28,9 @@ main article p a:hover {
 }
 </style>
 
+[Waldweihnacht ohne Wald](https://www.youtube.com/watch?v=ansI-euFIKE)
 [Pfadi-Challenge: Leaderboard](https://docs.google.com/spreadsheets/d/1KSHDvjnXL4QULOP6Vv9qnUaXKZltCONOAQRGnX9gEaY/edit?usp=sharing)
-[Pfadi-Challenge: Infos & Anmeldung](https://vcp-kurhessen.info/pfadi-challenge-2020-anmeldung/)
+<!--[Pfadi-Challenge: Infos & Anmeldung](https://vcp-kurhessen.info/pfadi-challenge-2020-anmeldung/)-->
 <!-- [Infos & Anmeldung zum PfadiTag 2020](/downloads/2020-08-20-pfaditag.pdf) -->
 <!-- [MeinKirchhain: Pfadfinder*innen aus Kirchhain bekommen doch ein Sommerlager](https://www.meinkirchhain.de/post/pfadfinder-innen-aus-kirchhain-bekommen-doch-ein-sommerlager) -->
 [QuarkAntenne [YouTube Kanal Aufnahme & Versprecher]](https://www.youtube.com/playlist?list=PLcUjR-xh4IQsmBeZHNDhqFFZJz749Z2lks)
