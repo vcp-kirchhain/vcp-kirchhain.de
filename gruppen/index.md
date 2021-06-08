@@ -9,7 +9,7 @@ feature_text: |
 
 - Alter: 7 bis 10 Jahre (Jahrgänge {{ 'now' | date: "%Y" | minus: 10 }} - {{ 'now' | date: "%Y" | minus: 7 }})
 - Gruppenleiterin: Lisa Semler [&#9993;](mailto:lisa@vcp-kirchhain.de) & Vanessa Tomzik
-- Mittwochs, 17:00 - 18:00 Uhr
+<!-- - Mittwochs, 17:00 - 18:00 Uhr -->
 - Stufe: Kinderstufe
 
 <!--![](woelflinge.jpg)-->
@@ -19,7 +19,7 @@ feature_text: |
 
 - Mädchen, Alter: {{ 'now' | date: "%Y" | minus: 2011 }} bis {{ 'now' | date: "%Y" | minus: 2009 }} Jahre (Jahrgänge 2009 - 2011)
 - Gruppenleiterin: Lisa Semler [&#9993;](mailto:lisa@vcp-kirchhain.de)
-- Mittwochs, 18:15 - 19:15 Uhr
+<!-- - Mittwochs, 18:15 - 19:15 Uhr -->
 - Stufe: Jungpfadfinder*innen
 
 <!--![](sippe_luchse.jpg)-->
