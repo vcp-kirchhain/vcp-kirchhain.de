@@ -9,7 +9,7 @@ feature_text: |
 
 - Alter: 7 bis 10 Jahre (Jahrgänge {{ 'now' | date: "%Y" | minus: 10 }} - {{ 'now' | date: "%Y" | minus: 7 }})
 - Gruppenleiterin: Lisa Semler [&#9993;](mailto:lisa@vcp-kirchhain.de) & Vanessa Tomzik
-<!-- - Mittwochs, 17:00 - 18:00 Uhr -->
+- Mittwochs, 17:00 - 18:00 Uhr (startet ab 23. Juni 2021)
 - Stufe: Kinderstufe
 
 <!--![](woelflinge.jpg)-->
@@ -18,8 +18,8 @@ feature_text: |
 ##### Sippe Luchse
 
 - Mädchen, Alter: {{ 'now' | date: "%Y" | minus: 2011 }} bis {{ 'now' | date: "%Y" | minus: 2009 }} Jahre (Jahrgänge 2009 - 2011)
-- Gruppenleiterin: Lisa Semler [&#9993;](mailto:lisa@vcp-kirchhain.de)
-<!-- - Mittwochs, 18:15 - 19:15 Uhr -->
+- Gruppenleiterin: Lisa Semler [&#9993;](mailto:lisa@vcp-kirchhain.de) & Apollonia Heeb
+- Mittwochs, 18:15 - 19:15 Uhr (startet ab 23. Juni 2021)
 - Stufe: Jungpfadfinder*innen
 
 <!--![](sippe_luchse.jpg)-->
@@ -29,7 +29,7 @@ feature_text: |
 
 - Jungs, Alter: {{ 'now' | date: "%Y" | minus: 2010 }} bis {{ 'now' | date: "%Y" | minus: 2008 }} Jahre (Jahrgänge 2008 - 2010)
 - Gruppenleiter: Christian Ehrhardt [&#9993;](mailto:christian@vcp-kirchhain.de)
-- Montags, 17:00 - 18:30 Uhr
+- Montags, 17:00 - 18:30 Uhr (startet ab 14. Juni 2021)
 - Stufe: Jungpfadfinder*innen
 
 <!--![](sippe_christian.jpg)-->
